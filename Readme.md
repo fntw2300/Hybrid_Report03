@@ -63,12 +63,13 @@ https://developer.android.com/studio/
 JAVA_HOME : C:\Program Files\Java\jdk1.8.0_45
 ANDROID_SDK_ROOT : C:\Users\cs\AppData\Local\Android\Sdk
 
-PATH			C:\Program Files\Java\jdk-10.0.2\bin
-			C:\hybrid\gradle-6.1.1\bin
-			C:\hybrid\apache-ant-1.10.5\bin
-			C:\Users\cs\AppData\Local\Android\Sdk\tools
-			C:\Users\cs\AppData\Local\Android\Sdk\platform-tools
-			C:\Users\cs\AppData\Local\Android\Sdk\build-tools
+PATH			
+C:\Program Files\Java\jdk-10.0.2\bin
+C:\hybrid\gradle-6.1.1\bin
+C:\hybrid\apache-ant-1.10.5\bin
+C:\Users\cs\AppData\Local\Android\Sdk\tools
+C:\Users\cs\AppData\Local\Android\Sdk\platform-tools
+C:\Users\cs\AppData\Local\Android\Sdk\build-tools
 
 ### 코르도바(폰갭) CLI 설치하기
 
