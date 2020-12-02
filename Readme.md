@@ -77,7 +77,7 @@ https://nodejs.org/ko/
 
 
 시작 - Node.js - Node.js command prompt
-'''
+```
 cd \
 md hybridProj
 cd hybridProj
@@ -91,7 +91,7 @@ cd test
 dir
 cordova platform add android
 dir platform
-'''
+```
 
 사용하고 있는 스마트폰 USB 드라이버 파일 다운로드
 환경설정 - 개발(개발자옵션) - USB 디버깅
