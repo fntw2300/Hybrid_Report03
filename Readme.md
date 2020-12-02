@@ -48,15 +48,15 @@ https://gradle.org/install/
 
 안드로이드 스튜디오 설치하기
 https://developer.android.com/studio/
-	SDK Manager 
-		SDK Tools
-			Android SDK Tools
-			Android SDK Platform-tools
-			Android SDK Build-tools
-			Google Respository
-			Google USB Driver
-			Intel x86 Emulator Accelerator(HAXM installer)
-			NDK - un check
+SDK Manager 
+SDK Tools
+Android SDK Tools
+Android SDK Platform-tools
+Android SDK Build-tools
+Google Respository
+Google USB Driver
+Intel x86 Emulator Accelerator(HAXM installer)
+NDK - un check
 
 
 ### 환경변수 설정하기
