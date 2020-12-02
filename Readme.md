@@ -48,7 +48,8 @@ https://gradle.org/install/
 
 안드로이드 스튜디오 설치하기
 https://developer.android.com/studio/
-SDK Manager 
+```
+SDK Manager
 SDK Tools
 Android SDK Tools
 Android SDK Platform-tools
@@ -57,12 +58,12 @@ Google Respository
 Google USB Driver
 Intel x86 Emulator Accelerator(HAXM installer)
 NDK - un check
-
+```
 
 ### 환경변수 설정하기
 JAVA_HOME : C:\Program Files\Java\jdk1.8.0_45
 ANDROID_SDK_ROOT : C:\Users\cs\AppData\Local\Android\Sdk
-
+```
 PATH			
 C:\Program Files\Java\jdk-10.0.2\bin
 C:\hybrid\gradle-6.1.1\bin
@@ -70,6 +71,7 @@ C:\hybrid\apache-ant-1.10.5\bin
 C:\Users\cs\AppData\Local\Android\Sdk\tools
 C:\Users\cs\AppData\Local\Android\Sdk\platform-tools
 C:\Users\cs\AppData\Local\Android\Sdk\build-tools
+```
 
 ### 코르도바(폰갭) CLI 설치하기
 
